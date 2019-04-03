@@ -1,5 +1,6 @@
 //each of these objects use a lot of arrays
 //each array is connected through the index
+//testing
 // index zero has a note value, a frequency value, a location value and a color value
 let whiteKeyz = {
   note : ['a','s','d','f','g','h','j','k','l',';'] ,
